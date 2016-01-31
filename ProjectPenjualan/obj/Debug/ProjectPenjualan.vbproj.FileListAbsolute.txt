@@ -1,0 +1,195 @@
+c:\users\satrio dwi prabowo\documents\visual studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+c:\users\satrio dwi prabowo\documents\visual studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+c:\users\satrio dwi prabowo\documents\visual studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+c:\users\satrio dwi prabowo\documents\visual studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.xml
+c:\users\satrio dwi prabowo\documents\visual studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.Resources.resources
+c:\users\satrio dwi prabowo\documents\visual studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbproj.GenerateResource.Cache
+c:\users\satrio dwi prabowo\documents\visual studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+c:\users\satrio dwi prabowo\documents\visual studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.xml
+c:\users\satrio dwi prabowo\documents\visual studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+c:\users\satrio dwi prabowo\documents\visual studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.MainMenu.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbprojResolveAssemblyReference.cache
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\bin\Debug\FastReport.Bars.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\bin\Debug\FastReport.Editor.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.masuk.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.CreateUser.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.RecentUser.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbprojResolveAssemblyReference.cache
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.CreateUser.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.MainMenu.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.masuk.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Resources.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.RecentUser.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.SplashScreen1.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbproj.GenerateResource.Cache
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Keterangan.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\bin\Debug\FastReport.Bars.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\bin\Debug\FastReport.Editor.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbprojResolveAssemblyReference.cache
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.CreateUser.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Keterangan.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.MainMenu.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.masuk.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Resources.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.RecentUser.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.SplashScreen1.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectGagal\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbproj.GenerateResource.Cache
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.PrintTransaksi.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.GantiPassword.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\FlashControlV71.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\EnvDTE.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\stdole.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbprojResolveAssemblyReference.cache
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.CreateUser.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.GantiPassword.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Keterangan.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.MainMenu.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.masuk.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Resources.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.PrintTransaksi.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.RecentUser.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.SplashScreen1.resources
+C:\Users\Satrio Dwi Prabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbproj.GenerateResource.Cache
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbprojResolveAssemblyReference.cache
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.CreateUser.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.GantiPassword.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Keterangan.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.MainMenu.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.masuk.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Resources.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.PrintTransaksi.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.RecentUser.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.SplashScreen1.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbproj.GenerateResource.Cache
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\EnvDTE.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\stdole.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2015\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 20154\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 20154\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 20154\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 20154\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbprojResolveAssemblyReference.cache
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.CreateUser.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.GantiPassword.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Keterangan.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.MainMenu.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.masuk.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Resources.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.PrintTransaksi.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.RecentUser.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.SplashScreen1.resources
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbproj.GenerateResource.Cache
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.xml
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\SatrioDwiPrabowo\Documents\Visual Studio 2013\Projects\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ShockwaveFlashObjects.dll
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.xml
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.xml
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Interop.AcroPDFLib.dll
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ShockwaveFlashObjects.dll
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbprojResolveAssemblyReference.cache
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.CreateUser.resources
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.GantiPassword.resources
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Keterangan.resources
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.MainMenu.resources
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.masuk.resources
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Resources.resources
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.PrintTransaksi.resources
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.RecentUser.resources
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.SplashScreen1.resources
+B:\Application Development Professional\vb project\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.xml
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ProjectPenjualan.xml
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.CreateUser.resources
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.GantiPassword.resources
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Keterangan.resources
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.MainMenu.resources
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.masuk.resources
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.Resources.resources
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.PrintTransaksi.resources
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.RecentUser.resources
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.SplashScreen1.resources
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\ojoz\ProjectPenjualan2\ProjectPenjualan\obj\Debug\ProjectPenjualan.CariKodeBarang.resources
